@@ -1,7 +1,7 @@
 package logic;
 
 public enum Janken {
-	GU(0), TYOKI(1), PER(2);
+	グー(0), チョキ(1), パー(2);
 
 	private final int code;
 
